@@ -1,9 +1,10 @@
+Greetings, I am Pi, the straw-hat technologist, thanks for visiting my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some random stuff:
 
-- 🔭 I’m currently working on [KitDB!](http://google.com)
-- 🌱 I’m currently learning ...
-- 💬 Ask me about Web Development (LAMP, MERN, MEVN Stacks) / OOP / Computers in general
+- 🔭 I’m currently working on [KitDB](https://kitdb.app/) and [CyberRamen](http://cyberramen.com/)
+- 🌱 I’m currently learning robot simulation ⚙️ (via Webots and ROS)
+- 💬 Ask me about Web Development (LAMP, MERN, MEVN Stacks) / OOP / Computers/ Physics and graphic design in general
 - 📫 How to reach me: pk2269@nyu.edu
 - 😄 Pronouns: He/him
 
