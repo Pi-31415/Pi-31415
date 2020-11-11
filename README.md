@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Pi-31415/Pi-31415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pi-31415&show_icons=true&theme=dracula"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-31415&theme=dracula&langs_count=5"/>
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
