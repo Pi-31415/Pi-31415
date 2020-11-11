@@ -4,7 +4,7 @@ Here are some random stuff:
 
 - 🔭 I’m currently working on [KitDB](https://kitdb.app/) and [CyberRamen](http://cyberramen.com/)
 - 🌱 I’m currently learning robot simulation ⚙️ (via Webots and ROS), heading to swarm robotics later
-- 💬 Ask me about Web Development (LAMP, MERN, MEVN Stacks) / OOP / Computers/ Physics and graphic design in general
+- 💬 Ask me about Web Development (LAMP, MERN, MEVN Stacks) / OOP / Computers/ Physics/ Graphic Design and Tradigital art in general
 - 📫 How to reach me: pk2269@nyu.edu
 - 😄 Pronouns: He/him
 
