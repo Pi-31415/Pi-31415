@@ -9,12 +9,6 @@
 - 💬 Ask me about Anything? :sunglasses:
 - ⚡ Fun fact: I love to Travel the World :earth_americas: and take Beautiful Pictures :camera: ! Take a look at  :point_right: My Instagram 
 
-### Wanna Reach Out to Me???
-
-[<img align="left" alt="kbhaskar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="karthikraja95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="karthikraja95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### I use these Tools at my Work:
