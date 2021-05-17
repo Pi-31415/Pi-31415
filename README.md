@@ -38,14 +38,9 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pi-31415&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true) 
+![Pi's github stats](https://github-readme-stats.vercel.app/api?username=Pi-31415&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true) 
 
 <!--
 To Show the Top Programming Languages in your Github Repo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikraja95)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-[website]: https://www.kbhaskar.com/
-[instagram]: https://www.instagram.com/my.artsy_lens/
-[linkedin]: https://www.linkedin.com/in/~kbhaskar/
-[projects]: https://www.kbhaskar.com/#projects
