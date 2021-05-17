@@ -38,7 +38,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karthikraja95&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pi-31415&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true) 
 
 <!--
 To Show the Top Programming Languages in your Github Repo:
