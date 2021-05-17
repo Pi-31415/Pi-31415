@@ -1,13 +1,23 @@
-Thanks for visiting my GitHub profile.
+### Hi there 👋, This is [Karthik](https://www.kbhaskar.com/)
 
-If you want to see my projects in action, please head to [my personal website](https://paingthet.com/).
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pi-31415&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-31415&theme=vue-dark&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
+- 🔭 Currently working as a End to End Data Scientist/ Machine Learning Engineer and eagerly learning **MLOps**, its so fascinating!!!
+- ⚡ Previously worked as a **Maching Learning Researcher** in [WangLab](https://wanglab.ml/) at [Vector Institute](https://vectorinstitute.ai/). I obtained my **M.Sc** from [University of Toronto](https://www.utoronto.ca/)
+- 🌱 I love **AI** and I hope one day we will build **AGI** :alien:
+- 👯 I’m always looking to collaborate on opensource AI projects with fellow AI enthusiasts :computer:
+- 🤔 I’m looking for amazing people to start a next Billion Dollar Company :moneybag:
+- 💬 Ask me about Anything? :sunglasses:
+- ⚡ Fun fact: I love to Travel the World :earth_americas: and take Beautiful Pictures :camera: ! Take a look at  :point_right: My Instagram 
+
+### Wanna Reach Out to Me???
+
+[<img align="left" alt="kbhaskar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="karthikraja95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="karthikraja95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Tools I use:
+### I use these Tools at my Work:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][projects]
 [<img align="left" alt="c++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/225px-ISO_C%2B%2B_Logo.svg.png" />][projects]
@@ -30,3 +40,18 @@ If you want to see my projects in action, please head to [my personal website](h
 
 
 <br />
+<br />
+
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karthikraja95&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!--
+To Show the Top Programming Languages in your Github Repo:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikraja95)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[website]: https://www.kbhaskar.com/
+[instagram]: https://www.instagram.com/my.artsy_lens/
+[linkedin]: https://www.linkedin.com/in/~kbhaskar/
+[projects]: https://www.kbhaskar.com/#projects
