@@ -51,6 +51,7 @@ If you want to see my projects in action, please head to [my personal website](h
 
 <br />
 <br />
+
 ---
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@8376d0bd-fbdf-4f90-91c2-9254fb8132f2/48dc03c2-dc02-48f7-a43e-57776f3449dc.png" /></a>
