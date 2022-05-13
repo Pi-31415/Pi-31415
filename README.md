@@ -50,8 +50,6 @@ If you want to see my projects in action, please head to [my personal website](h
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-31415&theme=vue-dark&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
 
 <br />
-<br />
 
----
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8376d0bd-fbdf-4f90-91c2-9254fb8132f2/48dc03c2-dc02-48f7-a43e-57776f3449dc.png" /></a>
+<img src="https://wakatime.com/share/@8376d0bd-fbdf-4f90-91c2-9254fb8132f2/48dc03c2-dc02-48f7-a43e-57776f3449dc.png" />
