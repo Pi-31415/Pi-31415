@@ -49,7 +49,6 @@ If you want to see my projects in action, please head to [my personal website](h
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pi-31415&theme=vue-dark&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pi-31415&theme=vue-dark&layout=compact&hide_border=true&card_width=250&langs_count=12"/>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@8376d0bd-fbdf-4f90-91c2-9254fb8132f2/9f1cddb8-a290-4e52-bede-5f91d1d9a0f0.svg"></embed></figure>
 
 
