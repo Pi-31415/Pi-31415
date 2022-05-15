@@ -44,6 +44,19 @@ If you want to see my projects in action, please head to [my personal website](h
 <br />
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 April 2022 - To: 14 May 2022
+
+Total Time: 5 hrs 32 mins
+
+JavaScript   3 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.94 %
+Python       1 hr 38 mins    ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+HTML         51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
