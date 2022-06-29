@@ -46,16 +46,16 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 28 June 2022
+From: 30 May 2022 - To: 29 June 2022
 
-Total Time: 31 hrs 50 mins
+Total Time: 29 hrs 55 mins
 
-Python       9 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.41 %
-Arduino      9 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   28.96 %
-JavaScript   8 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.23 %
-C#           1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Python       9 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.88 %
+JavaScript   8 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   27.80 %
+Arduino      7 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+C#           1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+JSON         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
