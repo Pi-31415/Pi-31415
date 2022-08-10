@@ -46,13 +46,14 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 05 August 2022
+From: 10 July 2022 - To: 09 August 2022
 
-Total Time: 52 hrs 25 mins
+Total Time: 57 hrs 38 mins
 
-C#           26 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   47.30 %
-Python       15 hrs 24 mins  ███████░░░░░░░░░░░░░░░░░░   27.93 %
-Other        2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+C#           27 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   39.84 %
+Python       21 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   31.57 %
+HTML         3 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other        2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
