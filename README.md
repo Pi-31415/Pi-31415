@@ -46,16 +46,16 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 August 2022 - To: 01 September 2022
+From: 03 August 2022 - To: 02 September 2022
 
-Total Time: 42 hrs 23 mins
+Total Time: 40 hrs 52 mins
 
-Python     21 hrs 21 mins  ████████████░░░░░░░░░░░░░   48.46 %
-C#         10 hrs 59 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
-HTML       2 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Docker     2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Markdown   2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Other      1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Python     21 hrs 21 mins  ████████████▓░░░░░░░░░░░░   50.19 %
+C#         10 hrs 59 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
+Docker     2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Markdown   1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+HTML       1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other      1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
