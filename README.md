@@ -43,6 +43,8 @@ If you want to see my projects in action, please head to [my personal website](h
 <br />
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pi-31415&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
