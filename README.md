@@ -48,13 +48,13 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 August 2022 - To: 21 September 2022
+From: 23 August 2022 - To: 22 September 2022
 
-Total Time: 36 hrs 5 mins
+Total Time: 37 hrs 31 mins
 
-Assembly           12 hrs 18 mins  ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-Python             9 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
-Other              6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Assembly           12 hrs 18 mins  ███████░░░░░░░░░░░░░░░░░░   28.01 %
+Python             10 hrs 33 mins  ██████░░░░░░░░░░░░░░░░░░░   24.03 %
+Other              6 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
 ```
 
 <!--END_SECTION:waka-->
