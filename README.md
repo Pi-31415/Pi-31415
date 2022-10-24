@@ -48,7 +48,7 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 23 October 2022
+From: 24 September 2022 - To: 24 October 2022
 
 Total Time: 39 hrs 50 mins
 
