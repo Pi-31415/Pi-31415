@@ -48,16 +48,16 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 20 November 2022
+From: 22 October 2022 - To: 21 November 2022
 
-Total Time: 56 hrs 1 min
+Total Time: 53 hrs 51 mins
 
-C++              23 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   40.77 %
-Python           9 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-C#               7 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-V                7 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-Text             2 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Bash             2 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+C++              23 hrs 27 mins  ██████████▓░░░░░░░░░░░░░░   42.38 %
+Python           7 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+C#               7 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
+V                7 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Text             2 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Bash             2 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
