@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 28 May 2023
+From: 29 April 2023 - To: 29 May 2023
 
-Total Time: 59 hrs 34 mins
+Total Time: 54 hrs 21 mins
 
-Other        14 hrs 11 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-C            13 hrs 16 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-C++          11 hrs 17 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Python       9 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-Markdown     6 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+C            13 hrs 16 mins  █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+Other        12 hrs 39 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+C++          8 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Python       7 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Markdown     6 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 ```
 
 <!--END_SECTION:waka-->
