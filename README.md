@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 08 July 2023
+From: 09 June 2023 - To: 09 July 2023
 
-Total Time: 88 hrs 2 mins
+Total Time: 89 hrs 57 mins
 
-JavaScript   63 hrs 26 mins  █████████████████▒░░░░░░░   69.30 %
-HTML         16 hrs 48 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-CSS          4 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-Other        3 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-JSON         1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+JavaScript   65 hrs 20 mins  █████████████████▒░░░░░░░   69.70 %
+HTML         16 hrs 48 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+CSS          4 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        3 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JSON         1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
