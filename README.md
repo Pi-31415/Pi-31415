@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 14 October 2023
+From: 15 September 2023 - To: 15 October 2023
 
-Total Time: 33 hrs 55 mins
+Total Time: 30 hrs 59 mins
 
-JavaScript       11 hrs 36 mins  ███████▒░░░░░░░░░░░░░░░░░   29.92 %
-Python           9 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
-Other            4 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Markdown         4 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Text             3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+JavaScript       10 hrs 53 mins  ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Python           9 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.09 %
+Other            4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Text             3 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+Markdown         2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 ```
 
 <!--END_SECTION:waka-->
