@@ -48,7 +48,7 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 07 December 2023
+From: 08 November 2023 - To: 08 December 2023
 
 Total Time: 3 hrs 22 mins
 
