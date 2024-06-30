@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2024 - To: 29 June 2024
+From: 31 May 2024 - To: 30 June 2024
 
-Total Time: 4 hrs 8 mins
+Total Time: 3 hrs 48 mins
 
-Python       1 hr 38 mins    ████████▒░░░░░░░░░░░░░░░░   33.70 %
-Markdown     1 hr 17 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
-Other        44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Text         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-HTML         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Python       1 hr 18 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+Markdown     1 hr 17 mins    ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Other        44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
+Text         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+HTML         25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
