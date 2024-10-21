@@ -48,7 +48,7 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 20 October 2024
+From: 21 September 2024 - To: 21 October 2024
 
 Total Time: 8 hrs 52 mins
 
