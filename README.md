@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 28 November 2024
+From: 30 October 2024 - To: 29 November 2024
 
-Total Time: 8 hrs 26 mins
+Total Time: 9 hrs 59 mins
 
-Other      4 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.78 %
-Python     3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-Markdown   2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-C++        50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-C#         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Other      4 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   32.84 %
+Python     3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Markdown   2 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+Java       48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+C++        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
