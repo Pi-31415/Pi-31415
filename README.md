@@ -48,15 +48,15 @@ If you want to see my projects in action, please head to [my personal website](h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 27 February 2025
+From: 29 January 2025 - To: 28 February 2025
 
-Total Time: 20 hrs 11 mins
+Total Time: 23 hrs 23 mins
 
-C#           9 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.58 %
-Other        8 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-Markdown     4 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-HTML         2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Python       1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+C#           9 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Other        9 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Markdown     5 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+HTML         2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+JavaScript   2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
