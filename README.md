@@ -50,15 +50,15 @@ https://drive.google.com/drive/folders/1UEdYjC16sCjQhYwWHJ1uqytJZwbGNwCf?usp=sha
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 16 May 2025
+From: 17 April 2025 - To: 17 May 2025
 
-Total Time: 10 hrs 20 mins
+Total Time: 10 hrs
 
-Other           4 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   31.62 %
-Markdown        3 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-C#              2 hrs 53 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-JavaScript      1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Python          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Other           4 hrs 46 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
+Markdown        3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+C#              2 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+JavaScript      1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Python          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
