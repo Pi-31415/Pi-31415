@@ -2,7 +2,7 @@
 
 If you want to see my projects in action, please head to [my personal website](https://paingthet.com/).
 
-https://drive.google.com/drive/folders/1UEdYjC16sCjQhYwWHJ1uqytJZwbGNwCf?usp=sharing
+[https://drive.google.com/drive/folders/1UEdYjC16sCjQhYwWHJ1uqytJZwbGNwCf?usp=sharing](https://drive.google.com/drive/folders/1yF9b0SG-3r_SgiOk3SnR1C7KmoAoF_w5)
 
 ### Tools I use:
 
