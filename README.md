@@ -50,15 +50,15 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 06 July 2025
+From: 07 June 2025 - To: 07 July 2025
 
-Total Time: 25 hrs 44 mins
+Total Time: 23 hrs 42 mins
 
-Python       10 hrs 24 mins  █████████░░░░░░░░░░░░░░░░   35.54 %
-C++          3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
-Other        3 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-JavaScript   3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-JSON         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Python       8 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   31.83 %
+C++          3 hrs 53 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Other        3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+JavaScript   3 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JSON         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
