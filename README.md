@@ -50,7 +50,7 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2025 - To: 28 July 2025
+From: 29 June 2025 - To: 29 July 2025
 
 Total Time: 6 hrs 51 mins
 
