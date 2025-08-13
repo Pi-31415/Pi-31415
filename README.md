@@ -50,13 +50,13 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 12 August 2025
+From: 14 July 2025 - To: 13 August 2025
 
-Total Time: 1 hr 5 mins
+Total Time: 1 hr 43 mins
 
-Other      1 hr 24 mins    ██████████████░░░░░░░░░░░   56.50 %
-Text       1 hr 4 mins     ██████████▓░░░░░░░░░░░░░░   43.25 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other      1 hr 59 mins    █████████████▒░░░░░░░░░░░   53.61 %
+Text       1 hr 4 mins     ███████▒░░░░░░░░░░░░░░░░░   29.14 %
+HTML       38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
