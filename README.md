@@ -52,12 +52,12 @@ https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=shari
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 29 August 2025
+From: 31 July 2025 - To: 30 August 2025
 
 Total Time: 14 hrs 52 mins
 
-C++           7 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
-Other         2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+C++           7 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   41.63 %
+Other         2 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
 Text          2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
 HTML          1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
 Markdown      1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
