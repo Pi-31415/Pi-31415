@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=shari
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2025 - To: 30 August 2025
+From: 01 August 2025 - To: 31 August 2025
 
 Total Time: 14 hrs 52 mins
 
