@@ -52,15 +52,15 @@ https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=shari
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 06 September 2025
+From: 08 August 2025 - To: 07 September 2025
 
-Total Time: 15 hrs 7 mins
+Total Time: 15 hrs 16 mins
 
-C++           7 hrs 21 mins   ██████████▒░░░░░░░░░░░░░░   40.93 %
-Other         2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
-Text          2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-HTML          1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Markdown      1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+C++           7 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   40.63 %
+Other         3 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Text          2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+HTML          1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Markdown      1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
 ```
 
 <!--END_SECTION:waka-->
