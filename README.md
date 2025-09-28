@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=shari
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 27 September 2025
+From: 29 August 2025 - To: 28 September 2025
 
 Total Time: 1 hr 23 mins
 
