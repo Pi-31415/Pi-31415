@@ -52,15 +52,15 @@ https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=shari
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 30 September 2025
+From: 01 September 2025 - To: 01 October 2025
 
 Total Time: 2 hrs 14 mins
 
-Other        2 hrs 1 min     ████████████░░░░░░░░░░░░░   47.54 %
-HTML         40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-GLSL         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Markdown     21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Other        1 hr 50 mins    ███████████▒░░░░░░░░░░░░░   45.00 %
+HTML         40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+GLSL         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Markdown     21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
