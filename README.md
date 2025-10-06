@@ -4,7 +4,7 @@ If you want to see my projects in action, please head to [my personal website](h
 
 https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 
-https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=sharing
+[https://drive.google.com/file/d/1BDiSSCxNE97lHrGqRaxVtEYFJHJAaFEh/view?usp=sharing](https://drive.google.com/drive/folders/1DM7zRw2hjEjneNvTwJHMj4V-7whAdX9G?usp=drive_link)
 
 ### Tools I use:
 
