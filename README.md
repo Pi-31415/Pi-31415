@@ -52,15 +52,15 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 18 October 2025
+From: 19 September 2025 - To: 19 October 2025
 
 Total Time: 2 hrs 57 mins
 
-Other        2 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   40.73 %
-GLSL         1 hr 19 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-HTML         47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Other        2 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.61 %
+GLSL         1 hr 19 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+HTML         47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Markdown     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
