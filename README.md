@@ -48,14 +48,13 @@ https://immersive-web.github.io/webxr-samples/immersive-ar-session.html
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 30 December 2025
+From: 01 December 2025 - To: 31 December 2025
 
-Total Time: 3 hrs 22 mins
+Total Time: 3 hrs 10 mins
 
-HTML     3 hrs 6 mins    █████████████████░░░░░░░░   68.36 %
-Other    1 hr 10 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
-MATLAB   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+HTML     3 hrs 6 mins    ██████████████████▒░░░░░░   73.51 %
+Other    1 hr 3 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
+Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
